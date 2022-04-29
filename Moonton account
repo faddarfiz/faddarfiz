@@ -1,0 +1,19 @@
+apt update && apt upgtade
+
+apt install git 
+
+git clone https://github.com/Gybran21/Empas-Janda.git
+
+cd 
+
+ls
+
+cd Empas-Janda
+
+ls
+
+apt install pv -y
+
+apt install wget -y
+
+bash empas.sh
